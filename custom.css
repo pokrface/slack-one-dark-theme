@@ -1766,4 +1766,8 @@ feature_archive_deeplink feature_texty winssb light_theme {
   font-family: var(--font-family) !important;
   margin-left: 20px !important; }
 
+.c-team__display-name, .c-unified_member__display-name, .c-usergroup__handle {
+  color: #c4ccdb !important;
+}
+
 /*# sourceMappingURL=custom.css.map */
